@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+This is my personal web page.In this phase,I do researching about material and chemistry in Electronic information engineering college of TYUT.
 
 A data-driven personal website
 ======
